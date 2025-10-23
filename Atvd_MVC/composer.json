@@ -1,0 +1,10 @@
+{
+    "name": "admin/atvd_mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\AtvdMvc\\": "src/"
+        }
+    },
+    "require": {}
+}
