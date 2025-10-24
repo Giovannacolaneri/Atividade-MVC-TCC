@@ -26,22 +26,23 @@ class Usuario {
     }
 
     public function getNome(){
-        $this->nome;
+        return $this->nome;
     }
 
     public function getEmail(){
-        $this->email;
+        return $this->email;
         
     }
 
     public function getSenha(){
-        $this->senha;
+        return $this->senha;
         
     }
 
     public function getTipo(){
-        $this->tipo;
+        return $this->tipo;
         
         
     }
+
 }
